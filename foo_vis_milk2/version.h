@@ -17,10 +17,10 @@
 #define APPLICATION_COMPANY_NAME "KernelOops" //"Jimmy Cassis"
 #define APPLICATION_FILE_IS_DLL 1
 #define APPLICATION_DESCRIPTION "MilkDrop 2 Visualization Library"
-#define APPLICATION_SOURCE_URL "https://github.com/Ci303/foo_vis_milk2_dx11-milkdrop2-fixes"
-#define APPLICATION_RELEASE_URL "https://github.com/Ci303/foo_vis_milk2_dx11-milkdrop2-fixes/releases"
-#define APPLICATION_DOCUMENTATION_URL "https://github.com/Ci303/foo_vis_milk2_dx11-milkdrop2-fixes"
-#define APPLICATION_DISCUSSION_URL "https://github.com/Ci303/foo_vis_milk2_dx11-milkdrop2-fixes/issues"
+#define APPLICATION_SOURCE_URL "https://github.com/noswimmingplease/foo_vis_milk2_dx11-milkdrop2-fixes"
+#define APPLICATION_RELEASE_URL "https://github.com/noswimmingplease/foo_vis_milk2_dx11-milkdrop2-fixes/releases"
+#define APPLICATION_DOCUMENTATION_URL "https://github.com/noswimmingplease/foo_vis_milk2_dx11-milkdrop2-fixes"
+#define APPLICATION_DISCUSSION_URL "https://github.com/noswimmingplease/foo_vis_milk2_dx11-milkdrop2-fixes/issues"
 #define LIBRARY_DOCUMENTATION_URL "https://www.geisswerks.com/milkdrop/milkdrop.html"
 
 #define APPLICATION_VERSION_MAJOR 0
